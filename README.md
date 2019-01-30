@@ -2,7 +2,7 @@
 
 Bienvenue dans le MOOC dédié aux sorts d'Harry Potter !
 
-Cette application est composée de Classes, chaque classe comporte de lessons.
+Cette application est composée de Classes, chaque classe comporte des lessons.
 
 La base de données comporte déjà 5 classes qui t'apprendront des sorts relatifs à des personnages d'Harry Potter.
 Chaque classe s'attardera sur 5 sorts au travers de 5 leçons.
